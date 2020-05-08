@@ -1,0 +1,190 @@
+= The Inner Light
+:stylesheet: docbook-xsl.css
+//:pdf-stylesdir: .
+//:pdf-fontsdir: fonts
+//:pdf-style: pdf-theme.yml
+:author: Dr Kevin Philp
+:email: kevin@cybercolloids.net
+:revnumber: 2.0
+:revdate: 06-05-2020
+:revremark: Convert to Asciidoctor and epub
+:plus: &#43;
+:toc:
+:toclevels: 4 
+
+== Introduction
+George Fox spoke of the _"inner light"_ but he did not come upon these terms at random. They most likely developed out of his study of the Bible which is full of imagery involving light and the New Testament develops the image of _"the light"_ as a metaphor for the spirit in its role of guiding the individual.   
+
+Light is a common motif in the bible. In fact it first appears in Genesis
+
+[quote, Genesis 1:3-6]
+____
+3) Then God said, “Let there be light”; and there was light.
+
+4) And God saw that the light was good; and God separated the light from the darkness.
+
+5) God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day.
+____
+
+We learn here that this light, the physical light we all know, was created by God and it was good. The last mention of light is in Revelation.
+
+[quote, Revelation 22:5]
+____
+5) And there will be no more night; they need no light of lamp or sun, for the Lord God will be their light, and they will reign forever and ever.
+____
+
+In Revelation we will not need the physical light anymore. The Lord will be our light. Here the light is referring to guidance, John is saying we do not need to physically discern or deduce our way forward because God will be our guide, he will lead us, the burden of working out the way forward is clear but it is clear because God reveals it to us.
+
+We can see from these two quotes that light means two things: the physical light we get from the sun and a guidance direct from God. The way we use the light from the sun to guide us is symbolic of the way we should use the light from God to guide us.
+
+== The light in the Old Testament
+
+Isaiah talks about a great light and how light has shined on those living in darkness.
+
+[quote, Isaiah 9:1, NRSV]
+____
+2) The people who walked in darkness
+    have seen a great light;
+those who lived in a land of deep darkness—
+    on them light has shined.
+____
+
+Psalm says it slightly different.
+
+[quote, Psalm 119:105]
+____
+105) Your word is a lamp for my feet, a light on my path.
+____
+
+The Hebrew word for _"word"_ comes from the Hebrew word _"dabar"_ which means to speak, promise or talk. _"Word"_ here does not refer to the Bible or any written text. This is a common cause for confusion. Many Christian groups use the _"the word"_ and _"the bible"_ interchangeably whereas they are quite different things. In the Old Testament the _"word (dabar)"_ is the message, the meaning, the essence. In Greek/Roman culture what you said and who you were are essentially the same thing. We actually use the same thoughts in English - don't we say that by reading something we have been illuminated. That is the concept of dabar, a message that illuminates and we know from later on that the message or word became flesh in the person of Jesus, that is the whole point of John chapter 1.
+
+Psalm 27 maybe makes it clearer.
+
+[quote, Psalm 27:1, NRSV]
+____
+
+1) The Lord is my light and my salvation;
+whom shall I fear?
+The Lord is the stronghold of my life;
+of whom shall I be afraid?
+____
+
+In Jewish thought the law was seen as a light that guides.
+
+[quote, Proverbs 6:23]
+____
+Because the command is a lamp
+and the Law a light,
+rebukes that discipline are a way of life
+____
+
+So, in the Jewish mind the light was seen as the law that guided or illuminated your way and that came from the _"dabar"_ of God.
+
+This is where Christians get confused. In Jewish thought the light was the law that illuminated their way. The New Testament builds on that image but in the New Testament the guiding light is not the written law but from the _"word (logos)"_ or message that is a metaphor for Christ and the Spirit.    
+
+Bear that in mind as we look at the New Testament.
+
+== The light in the New Testament
+
+So, bearing in mind the Jewish thoughts of light at the time, Jesus says:
+
+[quote, John 8:12, NRSV]
+____
+12) Again Jesus spoke to them, saying, “I am the light of the world. Whoever follows me will never walk in darkness but will have the light of life.”
+____
+
+This is were the idea of the _"dabar"_ or _"word"_ being more than a written text becomes important. The _"word"_ is the light of the world and Jesus is the light of the world. Hence earlier in John's gospel we have the famous first few verses about the word.
+
+[quote, John 1:1-5]
+____
+1) In the beginning, the Word existed. The Word was with God, and the Word was God.
+
+2) He existed in the beginning with God.
+
+3) Through him all things were made, and apart from him nothing was made that has been made.
+
+4) In him was life, and that life brought light to humanity.
+
+5) And the light shines on in the darkness, and the darkness has never put it out.
+____
+
+These two blocks of verses really explain the light in the new testament. The _"Word (dabar (Hebrew)/logos(Greek))"_ was with God and was God. In him was life and that brought the light to humanity. John explains it quite well.
+
+[quote, John 1:6-9, NRSV]
+____
+6) There was a man sent from God, whose name was John.
+
+7) He came as a witness to testify to the light, so that all might believe through him.
+
+8) He himself was not the light, but he came to testify to the light.
+
+9) The true light, which enlightens everyone, was coming into the world.
+____
+
+So Jesus is the light.
+
+[quote, John 12:35-36, NSRV]
+____
+35) Jesus said to them, “The light is with you for a little longer. Walk while you have the light, so that the darkness may not overtake you. If you walk in the darkness, you do not know where you are going.
+
+36) While you have the light, believe in the light, so that you may become children of light.”
+____
+
+
+[quote, 2 Peter 1:19-21]
+____
+19) So we have the prophetic message more fully confirmed. You will do well to be attentive to this as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts.
+
+20) First of all you must understand this, that no prophecy of scripture is a matter of one’s own interpretation,
+
+21) because no prophecy ever came by human will, but men and women moved by the Holy Spirit spoke from God.
+____
+
+2 Peter talks about prophesy as a light shining in a dark place and those prophecies come from the spirit, not by human will or understanding. So now we are talking about the light that guides is not the law but comes from the spirit.  
+
+Now comes another interesting notion:
+
+[quote, Matthew 5:16, NRSV]
+____
+16) In the same way, let your light shine before others, so that they may see your good works and give glory to your Father in heaven.
+____
+
+So we have a light within us that shines and illuminates for others. 
+
+So:
+
+[horizontal]
+*OLD TESTAMENT*:: The law was the light and that provided guidance.
+*NEW TESTAMENT*:: The light is synonymous with the spirit and that is within you.
+
+The imagery in 1 John is very clear. God is light and walking in the light is synonymous with walking with God and that also means we walk with and have fellowship each other.  
+
+[quote, 1 John 1:5-10, NRSV]
+____
+5) This is the message we have heard from him and proclaim to you, that God is light and in him there is no darkness at all.
+
+6) If we say that we have fellowship with him while we are walking in darkness, we lie and do not do what is true;
+
+7) but if we walk in the light as he himself is in the light, we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin.
+
+8) If we say that we have no sin, we deceive ourselves, and the truth is not in us.
+
+9) If we confess our sins, he who is faithful and just will forgive us our sins and cleanse us from all unrighteousness.
+
+10) If we say that we have not sinned, we make him a liar, and his word is not in us.
+____
+
+Revelation connects the light, the lamb and walking in the light all together.
+
+
+[quote, Revelation 21:22-24, NRSV]
+____
+22) I saw no temple in the city, for its temple is the Lord God the Almighty and the Lamb.
+
+23) And the city has no need of sun or moon to shine on it, for the glory of God is its light, and its lamp is the Lamb.
+
+24) The nations will walk by its light, and the kings of the earth will bring their glory into it.
+____
+
+== Conclusion
+The Quaker doctrine of the inner light came about from a detailed study of the Bible. Early Quakers understood the New Testament imagery of the light and how it refers to the spirit and Christ himself. In the new kingdom that spirit lives within you and is not found in written texts.
